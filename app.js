@@ -6,12 +6,12 @@ var userClickedPattern = [];
 
 var buttonColours =["red","blue","green","yellow"];
 var level;
-$(document).on("keydown",function(e){
+$(document).on("click",function(e){
     
-    if(e.key === "s"){
+    
         level=0;
         nextSequence();
-    }
+    
     
 });
 
