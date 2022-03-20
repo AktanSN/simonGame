@@ -7,6 +7,4 @@ Simon Game yanıp sönen ışıkların sırasını akılda tutarak yanan ilk ı�
 [Oynamak için tıkla](https://aktansn.github.io/simonGame/)
 ***
 
-![Photo](https://user-images.githubusercontent.com/58556840/159168356-18b8ea5e-4cf6-4c9b-ba31-37eceba3072d.gif)
-
-
+<img src="https://user-images.githubusercontent.com/58556840/159168356-18b8ea5e-4cf6-4c9b-ba31-37eceba3072d.gif" width="400" height="400">
